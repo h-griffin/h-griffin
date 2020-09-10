@@ -16,7 +16,6 @@
 
 ### [JavaScript Projects](https://github.com/h-griffin?tab=repositories&q=&type=&language=javascript)
 
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 
 [Python Projects]: https://github.com/h-griffin?tab=repositories&q=&type=&language=python
 [Javascript Projects]: https://github.com/h-griffin?tab=repositories&q=&type=&language=javascript]
