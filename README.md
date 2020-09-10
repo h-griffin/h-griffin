@@ -1,4 +1,4 @@
-
+<br>
 
 [<img align="left" alt="svgImg" width="56px" src="https://img.icons8.com/color/96/000000/python.png"/>][Python Projects]
 
