@@ -18,7 +18,7 @@
 
 
 
-<img align="left" alt="postgreSQL" width="32px" style="padding-left: 10px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
+<img align="left" alt="postgreSQL" width="32px" style="padding-left: 10px; padding-right:5px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
 
 <!-- <img align="left" alt="sqlite" width="32px" style="padding-left: 10px;" src="assets/sqlite.png" /> -->
 
