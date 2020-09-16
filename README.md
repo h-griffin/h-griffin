@@ -20,9 +20,9 @@
 <br>
 
 
-<div>
 
-<img alt="postgreSQL" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
+
+<img alt="postgreSQL" width="32px" style="padding-right:200px; padding-left: 30px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
 
 <!-- <img align="left" alt="sqlite" width="32px" style="padding-left: 30px;" src="assets/sqlite.png" /> -->
 
@@ -40,7 +40,7 @@
 
 <img alt="npm" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-</div>
+
 
 
 <!-- <img align="left" alt="node js" width="32px" src="https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor" /> -->
