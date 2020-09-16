@@ -1,4 +1,4 @@
-<br>
+<div align='center'>
 
 [<img align="left" alt="svgImg" width="56px" src="https://img.icons8.com/color/96/000000/python.png"/>][Python Projects]
 
@@ -20,7 +20,7 @@
 
 <img align="left" alt="postgreSQL" width="32px" style="padding-left: 10px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
 
-<img align="left" alt="sqlite" width="32px" style="padding-left: 10px;" src="assets/sqlite.png" />
+<!-- <img align="left" alt="sqlite" width="32px" style="padding-left: 10px;" src="assets/sqlite.png" /> -->
 
 <img align="left" alt="docker" width="32px" style="padding-left: 10px;" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=32&color=currentColor" />
 
@@ -35,6 +35,9 @@
 <img align="left" alt="sass" width="32px" style="padding-left: 10px;" src="https://icongr.am/devicon/sass-original.svg?size=32&color=currentColor" />
 
 <img align="left" alt="" width="32px" style="padding-left: 10px;" src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+</div>
+
 
 <img align="left" alt="" width="32px" style="padding-left: 10px;" src="" />
 <img align="left" alt="" width="32px" style="padding-left: 10px;" src="" />
