@@ -3,7 +3,8 @@
 [<img align="left" alt="svgImg" width="56px" src="https://img.icons8.com/color/96/000000/python.png"/>][Python Projects]
 
 
-[<img align="left" alt="JavaScript" width="64px" src="https://img.icons8.com/color/96/000000/javascript.png"/>][JavaScript Projects]
+[<img align="left" alt="JavaScript" width="56px" src="https://img.icons8.com/color/96/000000/javascript.png"/>][JavaScript Projects]
+
 
 <img align="left" alt="React" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -12,9 +13,9 @@
 <img align="left" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
-### [Python Projects](https://github.com/h-griffin?tab=repositories&q=&type=&language=python)
+#### [Python Projects](https://github.com/h-griffin?tab=repositories&q=&type=&language=python)
 
-### [JavaScript Projects](https://github.com/h-griffin?tab=repositories&q=&type=&language=javascript)
+#### [JavaScript Projects](https://github.com/h-griffin?tab=repositories&q=&type=&language=javascript)
 
 
 [Python Projects]: https://github.com/h-griffin?tab=repositories&q=&type=&language=python
