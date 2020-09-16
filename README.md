@@ -20,25 +20,25 @@
 <br>
 
 
-<div style='margin=0 auto;'>
+<div>
 
-&nbsp;&nbsp; <img alt="postgreSQL" width="32px" style=" padding-left: 300px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
+&nbsp;&nbsp; <img align='center' alt="postgreSQL" width="32px" style=" padding-left: 30px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
 
 <!-- <img alt="sqlite" width="32px" style="padding-left: 30px;" src="assets/sqlite.png" /> -->
 
-<img alt="docker" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=32&color=currentColor" />
+<img align='center' alt="docker" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=32&color=currentColor" />
 
-<img alt="django" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/django-original.svg?size=32&color=currentColor" />
+<img align='center' alt="django" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/django-original.svg?size=32&color=currentColor" />
 
-<img alt="heroku" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=32&color=currentColor" />
+<img align='center' alt="heroku" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=32&color=currentColor" />
 
-<img alt="jquery" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=32&color=currentColor" />
+<img align='center' alt="jquery" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=32&color=currentColor" />
 
-<img alt="bootstrap" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align='center' alt="bootstrap" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-<img alt="sass" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/sass-original.svg?size=32&color=currentColor" />
+<img align='center' alt="sass" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/sass-original.svg?size=32&color=currentColor" />
 
-<img alt="npm" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img align='center' alt="npm" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 </div>
 
