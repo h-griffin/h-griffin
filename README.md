@@ -20,7 +20,7 @@
 <br>
 
 
-<div>
+<div align='center'>
 
 <img align='center' alt="postgreSQL" width="32px" style=" padding-left: 30px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
 
