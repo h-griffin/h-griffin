@@ -33,7 +33,7 @@
 
 <img align='center' alt="jquery" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=32&color=currentColor" />
 
-<img align='center' alt="redux" width="32px" style="padding-left: 30px;"src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' >
+<img align='center' alt="redux" width="32px" style="padding-left: 30px;"src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' />
 
 <img align='center' alt="bootstrap" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
