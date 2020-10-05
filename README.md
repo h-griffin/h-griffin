@@ -25,6 +25,8 @@
 <img align='center' alt="postgreSQL" width="32px" style=" padding-left: 30px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
 <!-- <img alt="sqlite" width="32px" style="padding-left: 30px;" src="assets/sqlite.png" /> -->
 
+<img align='center' alt="firebase" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/firebase.png" />
+
 <img align='center' alt="docker" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=32&color=currentColor" />
 
 <img align='center' alt="django" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/django-original.svg?size=32&color=currentColor" />
