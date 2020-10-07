@@ -37,6 +37,8 @@
 
 <img align='center' alt="redux" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/redux.png" />
 
+<img align='center' alt="jest" width="32px" style="padding-left: 30px;" src="assets/jest.png" />
+
 <img align='center' alt="bootstrap" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 <img align='center' alt="sass" width="32px" style="padding-left: 30px;" src="https://icongr.am/devicon/sass-original.svg?size=32&color=currentColor" />
