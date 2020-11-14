@@ -52,13 +52,9 @@
 
 <!-- <img align="left" alt="node js" width="32px" src="https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor" /> -->
 
-
-
-
 <!-- #### [Python Projects](https://github.com/h-griffin?tab=repositories&q=&type=&language=python)
 
 #### [JavaScript Projects](https://github.com/h-griffin?tab=repositories&q=&type=&language=javascript) -->
-
 
 
 [Python Projects]: https://github.com/h-griffin?tab=repositories&q=&type=&language=python
