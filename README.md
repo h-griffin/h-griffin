@@ -10,7 +10,7 @@
 <img alt="JavaScript" width="56px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
 <img alt="TypeScript" width="56px" src="https://img.icons8.com/color/96/000000/typescript.png"/>
 
-<img alt="React" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<!-- <img alt="React" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 
 <img alt="C-sharp" width="56px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
 
@@ -29,6 +29,8 @@
 <div align='center'>
 
 <img align='center' alt="Unity" width="32px" style=" padding-left: 30px;" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
+
+<img align='center' alt="React" width="32px" style=" padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align='center' alt="postgreSQL" width="32px" style=" padding-left: 30px;" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=32&color=currentColor" />
 <!-- <img alt="sqlite" width="32px" style="padding-left: 30px;" src="assets/sqlite.png" /> -->
