@@ -10,10 +10,12 @@
 <img alt="JavaScript" width="56px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
 <img alt="TypeScript" width="56px" src="https://img.icons8.com/color/96/000000/typescript.png"/>
 
+<img alt="C-sharp" width="56px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+  
 <img alt="React" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img alt="C-sharp" width="56px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-
+<img alt="Angular" width="56px" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+  
 <!-- <img alt="Unity" width="56px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> -->
 
 <img alt="HTML5" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
