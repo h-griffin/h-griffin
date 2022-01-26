@@ -58,6 +58,16 @@
 
 <img align='center' alt="npm" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/npm.png"/>
 
+</div align="center">
+
+<img align='center' alt="etsy" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/etsy.png"/> etsy.com/shop/odetocharcoal
+
+<br>
+<img align='center' alt="etsy" width="43px" style="padding-left: 30px;" src="https://img.icons8.com/color/50/000000/fiverr.png"/> fiverr.com/griffincode
+
+
+<div>
+
 </div>
 
 
