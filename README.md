@@ -64,13 +64,15 @@
 
 
 <div align="center">
-<img align='center' alt="etsy" width="32px" style="padding-left: 30px;" src="https://img.icons8.com/color/48/000000/etsy.png"/> etsy.com/shop/odetocharcoal
-
-<img align='center' alt="instagram" width="45px" style="padding-left: 30px;" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png"/> instagram.com/odetocharcoal
+<img align='center' alt="etsy" width="32px" style="padding-left: 30px; display: inline-block;" src="https://img.icons8.com/color/48/000000/etsy.png"/> 
+<a href="https://etsy.com/shop/odetocharcoal">odetocharcoal</a>
+<img align='center' alt="instagram" width="45px" style="padding-left: 30px; display: inline-block;" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png"/> 
+<a href="https://instagram.com/odetocharcoal">odetocharcoal</a>
+<img align='center' alt="fiverr" width="43px" style="padding-left: 30px;" src="https://img.icons8.com/color/50/000000/fiverr.png"/>
+<a href="https://fiverr.com/griffincode">griffincode</a>
 </div>
 
 <div align="center">
-<img align='center' alt="fiverr" width="43px" style="padding-left: 30px;" src="https://img.icons8.com/color/50/000000/fiverr.png"/> fiverr.com/griffincode
 
 </div>
 <div>
