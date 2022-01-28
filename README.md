@@ -65,11 +65,11 @@
 
 <div align="center">
 <img align='center' alt="etsy" width="32px" style="padding-left: 30px; display: inline-block;" src="https://img.icons8.com/color/48/000000/etsy.png"/> 
-<a href="https://etsy.com/shop/odetocharcoal">odetocharcoal</a>
+<a href="https://etsy.com/shop/odetocharcoal" target="_blank" rel="noopener noreferrer">odetocharcoal</a>
 <img align='center' alt="instagram" width="45px" style="padding-left: 30px; display: inline-block;" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png"/> 
-<a href="https://instagram.com/odetocharcoal">odetocharcoal</a>
+<a href="https://instagram.com/odetocharcoal" target="_blank" rel="noopener noreferrer">odetocharcoal</a>
 <img align='center' alt="fiverr" width="43px" style="padding-left: 30px;" src="https://img.icons8.com/color/50/000000/fiverr.png"/>
-<a href="https://fiverr.com/griffincode">griffincode</a>
+<a href="https://fiverr.com/griffincode" target="_blank" rel="noopener noreferrer">griffincode</a>
 </div>
 
 <div align="center">
