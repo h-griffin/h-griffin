@@ -30,9 +30,9 @@
 
 <div align='center'>
 
-  <img alt="React" width="32px" style=" padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align='center' alt="React" width="32px" style=" padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img alt="Angular" width="32px" style=" padding-left: 30px;" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+<img align='center' alt="Angular" width="32px" style=" padding-left: 30px;" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
   
   
 <img align='center' alt="Unity" width="32px" style=" padding-left: 30px;" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
